@@ -43,7 +43,7 @@ DROIDTOOL is a user-friendly, menu-driven Bash script designed for Linux users t
 
 - **Device Setup:**
   - Android device with USB debugging enabled (Settings > Developer Options > USB DEBUGGING).
-  - USB cable for initial connection (IP/Wireless pairing supported for Android 11+).
+  - USB cable,IP Adress of the device (Wireless pairing supported for Android 11+).
 - **Optional:** Root access on the device for advanced features.
 
 ## Installation
