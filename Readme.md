@@ -8,7 +8,7 @@ DROIDTOOL is a user-friendly, menu-driven Bash script designed for Linux users t
 
 ### Device Information
 - Generate a comprehensive system report including:
-  - Brand, model, Android version, SDK, serial, build, security patch.
+  - Brand, model, Android version, SDK, serial, build, security patch,arch,supported archs.
   - Uptime, battery status (level, health, temperature).
   - Storage usage, memory info, screen resolution.
   - Network details (Wi-Fi name, IP address).
