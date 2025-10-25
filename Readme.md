@@ -43,12 +43,12 @@ DROIDTOOL is a user-friendly, menu-driven Bash script designed for Linux users t
 
 - **Device Setup:**
 
--Enable Developer Options
- * Go to Settings.
- * Tap About phone.
- * Tap Build number (usually under "Software information") seven times rapidly.
- * You will see the message "You are now a developer!"
- * Developer options is now available in the main Settings menu.
+- Enable Developer Options on your Device
+ Go to Settings.
+ Tap About phone.
+ Tap Build number (usually under "Software information") seven times rapidly.
+You will see the message "You are now a developer!"
+Developer options is now available in the main Settings menu.
 
   - Android device with USB debugging enabled (Settings > Developer Options > USB DEBUGGING).
   - USB cable,IP Adress of the device (Wireless pairing supported for Android 11+).
