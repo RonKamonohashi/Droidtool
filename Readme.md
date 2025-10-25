@@ -43,7 +43,7 @@ DROIDTOOL is a user-friendly, menu-driven Bash script designed for Linux users t
 
 - **Device Setup:**
 
-- Enable Developer Options on your Device
+- How Enable Developer Options on your Device
 
 Go to Settings.
 
